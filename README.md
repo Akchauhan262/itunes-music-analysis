@@ -236,9 +236,8 @@ Execute files in `queries/` folder in numbered order.
 ## 👤 Author
 
 **[Your Name]**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: akashchauhan@gmail.com
+- 🐙 GitHub: [github.com/yourusername](https://github.com/Akchauhan262)
 
 ---
 
