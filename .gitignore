@@ -1,0 +1,17 @@
+# Database files (don't upload the actual DB — only CSVs)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.log
